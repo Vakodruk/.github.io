@@ -71,7 +71,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -217,7 +217,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -405,7 +405,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -566,7 +566,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
