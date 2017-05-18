@@ -85,6 +85,7 @@
   font-size: 24px;
 }
 
+
 #dropdown-menu-2btn-p .hide-buttons [data-button] {
   display: none !important;
 }
@@ -92,15 +93,16 @@
 #dropdown-menu-2btn-p .dropdown-item {
   font-size: 1.2em;
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
 }
 #dropdown-menu-2btn-p .navbar,
 #dropdown-menu-2btn-p .dropdown-menu {
-  background: #ffffff;
+  background: #cfeff6;
 }
 #dropdown-menu-2btn-p .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-p .dropdown-menu a:hover,
 #dropdown-menu-2btn-p .dropdown-menu a:focus {
-  background: #f5f5f5;
+  background: #bee9f3;
 }
 #dropdown-menu-2btn-p .navbar-toggler {
   color: #000000;
