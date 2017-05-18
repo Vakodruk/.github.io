@@ -126,3 +126,39 @@
 #form1-z .btn {
   font-family: 'Open Sans', sans-serif;
 }
+
+
+
+
+#dropdown-menu-2btn-10 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-10 .navbar-brand a {
+  font-size: 25px;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-2btn-10 .nav .link,
+#dropdown-menu-2btn-10 .dropdown-item {
+  font-size: 1.2em;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-2btn-10 .navbar,
+#dropdown-menu-2btn-10 .dropdown-menu {
+  background: #cfeff6;
+}
+#dropdown-menu-2btn-10 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-10 .dropdown-menu a:hover,
+#dropdown-menu-2btn-10 .dropdown-menu a:focus {
+  background: #bee9f3;
+}
+#dropdown-menu-2btn-10 .navbar-toggler {
+  color: #000000;
+}
+#content5-16 .mbr-section-title {
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
+#content5-16 P {
+  font-family: 'Open Sans', sans-serif;
+}
