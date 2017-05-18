@@ -2,6 +2,9 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 
 
+
+
+
 #dropdown-menu-2btn-p .hide-buttons [data-button] {
   display: none !important;
 }
@@ -13,15 +16,16 @@
 #dropdown-menu-2btn-p .dropdown-item {
   font-size: 1.2em;
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
 }
 #dropdown-menu-2btn-p .navbar,
 #dropdown-menu-2btn-p .dropdown-menu {
-  background: #fff8e0;
+  background: #cfeff6;
 }
 #dropdown-menu-2btn-p .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-p .dropdown-menu a:hover,
 #dropdown-menu-2btn-p .dropdown-menu a:focus {
-  background: #fff3cc;
+  background: #bee9f3;
 }
 #dropdown-menu-2btn-p .navbar-toggler {
   color: #000000;
@@ -33,6 +37,11 @@
 }
 #header1-f P {
   color: #fafafa;
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+}
+#header1-f SPAN {
+  font-family: 'Open Sans', sans-serif;
 }
 
 
@@ -51,12 +60,12 @@
 }
 #dropdown-menu-2btn-p .navbar,
 #dropdown-menu-2btn-p .dropdown-menu {
-  background: #fff8e0;
+  background: #cfeff6;
 }
 #dropdown-menu-2btn-p .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-p .dropdown-menu a:hover,
 #dropdown-menu-2btn-p .dropdown-menu a:focus {
-  background: #fff3cc;
+  background: #bee9f3;
 }
 #dropdown-menu-2btn-p .navbar-toggler {
   color: #000000;
